@@ -57,19 +57,3 @@ python python/06_visualization.py
 
 ![Volcano Plot](outputs/figures/03_volcano.png)
 ![CCA Biplot](outputs/figures/01_cca_biplot.png)
-
-```
-
----
-
-**For your resume**, add it under a Projects section like this:
-```
-
-Multi-Omic Cancer Genomics Pipeline 2026
-
-- Built end-to-end pipeline integrating RNA-seq, DNA mutation, and
-  methylation data from 675 TCGA breast cancer samples
-- Applied Canonical Correlation Analysis (CCA) to identify CDH1 and
-  GATA3 as driver genes (p < 1e-10)
-- Tools: R (TCGAbiolinks, DESeq2, sva), Python (scikit-learn, pandas)
-- Full pipeline and results available on GitHub
