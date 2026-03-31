@@ -232,11 +232,9 @@ python python/06_visualization.py
 
 ## Output
 
-### Figures
-
-* `outputs/figures/03_volcano.png`
-* `outputs/figures/01_cca_biplot.png`
-* `outputs/figures/02_heatmap.png`
+### Results
+![Volcano Plot](outputs/figures/03_volcano.png)
+![CCA Biplot](outputs/figures/01_cca_biplot.png)
 
 ### Tables
 
