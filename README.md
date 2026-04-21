@@ -278,7 +278,7 @@ Year: 2026
 ## Author
 
 Urja Mehta
-Computer Science | Bioinformatics | Multi-Omics Data Integration
+Computer Science | Data Analyst | Multi-Omics Data Integration
 
 ---
 
